@@ -1,0 +1,91 @@
+body {
+	font-family: Tahoma;
+	height: 750px;
+	background: linear-gradient(180deg, #E4E4E4E4 0%, #9CEEE7 5%, #9CEEE7 80%, #FFCC80 100% );
+	margin: 0 auto;	
+	padding: 120px
+}
+form {
+	width: 600px;
+	height: 700px;
+	padding: 0px;
+	margin: 0 auto;
+	background: #FFFFFF;
+	border-radius: 30px;
+	
+}
+.group {
+	margin-left: 125px;
+	padding-top: 25px;
+	width: 300px;
+	font-size: 18px;
+}
+.group2 {
+    padding: 10px;
+	margin-left: 115px;
+	padding-left: 27px;
+	width: 100px;
+	
+ }
+label{
+	padding-left: 0px;
+}
+input{
+	margin-top: 5px;
+	height: 30px;
+	width: 350px;
+	font-size: 16px;
+}
+button{
+	cursor: pointer;
+	padding: 0px 100px;
+	height: 55px;
+	color: #0000FF;
+	background: #FFFF66;
+	border-radius: 30px;
+	margin-top: 40px;
+	text-shadow: 
+		-0   -1px 1px #FFFFFF,
+		 0   -1px 1px #FFFFFF,
+		-0    1px 1px #FFFFFF,
+		 0    1px 1px #FFFFFF,
+		-1px -0   1px #FFFFFF,
+		 1px -0   1px #FFFFFF,
+		-1px  0   1px #FFFFFF,
+		 1px  0   1px #FFFFFF,
+		-1px -1px 1px #FFFFFF,
+		 1px -1px 1px #FFFFFF,
+		-1px  1px 1px #FFFFFF,
+		 1px  1px 1px #FFFFFF,
+		-1px -1px 1px #FFFFFF,
+		 1px -1px 1px #FFFFFF,
+		-1px  1px 1px #FFFFFF,
+		 1px  1px 1px #FFFFFF;
+         font-weight: bold;
+	}
+h1{
+	color:blue;
+	height: 35px;
+	margin: 10 auto;
+	width: 290px;
+	padding: 20px;
+	font-size: 35px;
+	text-shadow: 
+		-0   -1px 0   #FFF26D,
+		 0   -1px 0   #FFF26D,
+		-0    1px 0   #FFF26D,
+		 0    1px 0   #FFF26D,
+		-1px -0   0   #FFF26D,
+		 1px -0   0   #FFF26D,
+		-1px  0   0   #FFF26D,
+		 1px  0   0   #FFF26D,
+		-1px -1px 0   #FFF26D,
+		 1px -1px 0   #FFF26D,
+		-1px  1px 0   #FFF26D,
+		 1px  1px 0   #FFF26D,
+		-1px -1px 0   #FFF26D,
+		 1px -1px 0   #FFF26D,
+		-1px  1px 0   #FFF26D,
+		 1px  1px 0   #FFF26D;
+
+}
